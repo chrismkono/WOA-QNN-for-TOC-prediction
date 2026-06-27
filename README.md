@@ -14,5 +14,5 @@ This repository contains the official production-ready implementation of the hyb
 ├── README.md           <- Repository setup and execution guide
 ├── requirements.txt    <- Complete Python package dependencies
 └── notebooks/
-    └── WOAQNN\_TOC.ipynb  <- Integrated Jupyter Notebook containing all 3 models
+    └── WOAQNN_TOC.ipynb  <- Integrated Jupyter Notebook containing all 3 models
 
